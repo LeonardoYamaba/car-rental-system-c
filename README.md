@@ -108,17 +108,6 @@ locadora.exe        # Windows
 
 ---
 
-## 🔮 Ideias para evoluir
-
-- [x] Usar `struct` para agrupar os dados de cada carro
-- [x] Salvar os aluguéis em arquivo
-- [x] Cobrar multa por atraso na devolução
-- [x] Cadastro de novos carros
-- [ ] Remover ou editar carros cadastrados
-- [ ] Histórico de aluguéis
-- [ ] Buscar carro pelo nome
-
----
 
 <div align="center">
 
